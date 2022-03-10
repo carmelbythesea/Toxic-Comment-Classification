@@ -1,6 +1,8 @@
 # Toxic-Comment-Classification
 
-This project is designed to classify toxic comments from Wikipedia into 6 types. We used common classifiers Logistic regression, Isolation Forest and Multinomial Naive Bayes. We also used neural network CNN and LSTM to train the classification model.
+This project is designed to classify toxic comments from Wikipedia into 6 types: 'toxic', 'severe toxic', 'obscene', 'threat', 'insult', 'identity hate'. We used common classifiers Logistic regression, Isolation Forest and Multinomial Naive Bayes. We also used neural network CNN and LSTM to train the classification model.
+
+Data are achived from the Kaggle competition https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
 ## Getting started
 
@@ -27,6 +29,14 @@ Then to install all the packages needed to run the programs
 
 ## Running tests
 
-- For exploratory data analysis, run /eda_common_classifiers.ipynb
-- For common classifiers Logistic regression, Isolation Forest and Multinomial Naive Bayes, run /eda_common_classifiers.ipynb
-- For neural network CNN and LSTM, run /cnn.ipynb
+- For exploratory data analysis, run 'eda_common_classifiers.ipynb'
+- For common classifiers Logistic regression, Isolation Forest and Multinomial Naive Bayes, run 'eda_common_classifiers.ipynb'
+- For neural network CNN and LSTM, run 'cnn.ipynb'
+
+## Authors
+
+**Qingyuan Pan**
+**Zishun Jin**
+**Yingyin Xiao**
+
+
