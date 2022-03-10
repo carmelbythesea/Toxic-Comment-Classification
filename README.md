@@ -35,8 +35,8 @@ Then to install all the packages needed to run the programs
 
 ## Authors
 
-**Qingyuan Pan**
-**Zishun Jin**
-**Yingyin Xiao**
+* **Qingyuan Pan**
+* **Zishun Jin**
+* **Yingyin Xiao**
 
 
