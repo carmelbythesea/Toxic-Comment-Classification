@@ -2,7 +2,7 @@
 
 This project is designed to classify toxic comments from Wikipedia into 6 types: 'toxic', 'severe toxic', 'obscene', 'threat', 'insult', 'identity hate'. We used common classifiers Logistic regression, Isolation Forest and Multinomial Naive Bayes. We also used neural network CNN and LSTM to train the classification model.
 
-Data are achived from the Kaggle competition https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+Data are achived from the [Kaggle competition](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 
 ## Getting started
 
