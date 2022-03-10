@@ -29,9 +29,9 @@ Then to install all the packages needed to run the programs
 
 ## Running tests
 
-- For exploratory data analysis, run 'eda_common_classifiers.ipynb'
-- For common classifiers Logistic regression, Isolation Forest and Multinomial Naive Bayes, run 'eda_common_classifiers.ipynb'
-- For neural network CNN and LSTM, run 'cnn.ipynb'
+- For exploratory data analysis, run `eda_common_classifiers.ipynb`
+- For common classifiers Logistic regression, Isolation Forest and Multinomial Naive Bayes, run `eda_common_classifiers.ipynb`
+- For neural network CNN and LSTM, run `cnn.ipynb`
 
 ## Authors
 
