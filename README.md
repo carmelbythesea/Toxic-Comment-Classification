@@ -35,9 +35,9 @@ Then to install all the packages needed to run the programs
 
 ## Authors
 
-* **Qingyuan Pan** [q](https://github.com/panqingyuan)
-* **Zishun Jin**
-* **Yingyin Xiao**
+* **Qingyuan Pan** [Github](https://github.com/panqingyuan)
+* **Zishun Jin** [Github](https://github.com/354352231)
+* **Yingyin Xiao** [Github](https://github.com/carmelbythesea)
 
 ## References
 
