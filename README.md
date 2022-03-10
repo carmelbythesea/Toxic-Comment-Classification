@@ -35,7 +35,7 @@ Then to install all the packages needed to run the programs
 
 ## Authors
 
-* **Qingyuan Pan**
+* **Qingyuan Pan** [q](https://github.com/panqingyuan)
 * **Zishun Jin**
 * **Yingyin Xiao**
 
