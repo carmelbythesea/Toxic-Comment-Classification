@@ -41,4 +41,4 @@ Then to install all the packages needed to run the programs
 
 ## References
 
-- 
+- Jigsaw/Conversation AI. (Dec, 2017). Toxic Comment Classification Challenge. Retrieved February, 2022 from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
