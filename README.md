@@ -16,7 +16,7 @@ Download python 3 on the computer and download the code and packages listed belo
 - Matplotlib 
 - Sklearn
 - SciPy
-- 
+
 ### Installing
 
 First to install python 3 onto your computer 
@@ -39,4 +39,6 @@ Then to install all the packages needed to run the programs
 * **Zishun Jin**
 * **Yingyin Xiao**
 
+## References
 
+- 
