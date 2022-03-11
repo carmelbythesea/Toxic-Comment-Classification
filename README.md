@@ -16,10 +16,15 @@ Download python 3 on the computer and download the code and packages listed belo
 - Matplotlib 
 - Sklearn
 - SciPy
+- tensorflow 1.7.0rc1
+- Keras 2.1.5
+- gensim 3.4.0
+- nltk 3.2.4
+- wordcloud 1.4.1
 
 ### Installing
 
-First to install python 3 onto your computer 
+First to install Python 3 onto your computer 
 
 Then to install all the packages needed to run the programs
 
@@ -31,7 +36,8 @@ Then to install all the packages needed to run the programs
 
 - For exploratory data analysis, run `eda_common_classifiers.ipynb`
 - For common classifiers Logistic regression, Isolation Forest and Multinomial Naive Bayes, run `eda_common_classifiers.ipynb`
-- For neural network CNN and LSTM, run `cnn.ipynb`
+- For neural network CNN, run `cnn.ipynb`
+- For neural network CNN+LSTM, run ``
 
 ## Authors
 
